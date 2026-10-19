@@ -50,6 +50,12 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+**Also writing**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
 ### Featured projects
 
 | Project | What it does | Stack |
@@ -64,6 +70,12 @@
 | [**throttlekit**](https://github.com/asmahdy1420-cmyk/throttlekit) | Rate limiting: sliding window, token bucket and GCRA with atomic Redis Lua scripts | Python · Redis |
 | [**logpulse**](https://github.com/asmahdy1420-cmyk/logpulse) | Streaming log analytics: t-digest percentiles, Count-Min heavy hitters, EWMA anomaly alerts | Python |
 | [**dispatchwise**](https://github.com/asmahdy1420-cmyk/dispatchwise) | Pharmacy order dispatch optimiser: order splitting, driver assignment, KMeans demand zones | FastAPI · scikit-learn |
+| [**fatoora**](https://github.com/asmahdy1420-cmyk/fatoora) | Bilingual Arabic/English invoice builder for Gulf businesses — runs fully in the browser, RTL-aware | TypeScript |
+| [**taskloom**](https://github.com/asmahdy1420-cmyk/taskloom) | Offline-first Kanban board with a real domain layer, stored in IndexedDB | TypeScript · React · Vite |
+| [**pulsewatch**](https://github.com/asmahdy1420-cmyk/pulsewatch) | Self-hosted uptime monitor with a public status page — one binary, one YAML, one SQLite DB | Go · SQLite |
+| [**switchyard**](https://github.com/asmahdy1420-cmyk/switchyard) | HTTP reverse proxy and load balancer on the Go standard library | Go |
+| [**tabsql**](https://github.com/asmahdy1420-cmyk/tabsql) | Fast CLI that runs a SQL subset directly over CSV and TSV files | Rust |
+| [**emberkv**](https://github.com/asmahdy1420-cmyk/emberkv) | Embedded Bitcask-style key-value store with a CLI and a RESP-like TCP server | Rust |
 
 ### What I care about
 
