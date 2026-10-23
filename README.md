@@ -2,6 +2,7 @@
 <h3 align="center">Senior Backend Engineer & Team Lead · Python · Django · FastAPI · AI Agents</h3>
 
 <p align="center">
+    <a href="https://ahmedmahdy.progma.tech/"><img src="https://img.shields.io/badge/Website-ahmedmahdy.progma.tech-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/asmahdy"><img src="https://img.shields.io/badge/LinkedIn-asmahdy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ahmedmahdy1420@gmail.com"><img src="https://img.shields.io/badge/Email-ahmedmahdy1420@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Based_in-Istanbul_(UTC%2B3)-1E293B?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" />
@@ -55,6 +56,9 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ### Featured projects
 
@@ -76,6 +80,17 @@
 | [**switchyard**](https://github.com/asmahdy1420-cmyk/switchyard) | HTTP reverse proxy and load balancer on the Go standard library | Go |
 | [**tabsql**](https://github.com/asmahdy1420-cmyk/tabsql) | Fast CLI that runs a SQL subset directly over CSV and TSV files | Rust |
 | [**emberkv**](https://github.com/asmahdy1420-cmyk/emberkv) | Embedded Bitcask-style key-value store with a CLI and a RESP-like TCP server | Rust |
+
+#### More projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**parcelpath**](https://github.com/asmahdy1420-cmyk/parcelpath) | Shipment-tracking API: explicit state machine, idempotent carrier webhooks, optimistic locking, RFC 7807 errors | Kotlin · Spring Boot 3 |
+| [**clinicslot**](https://github.com/asmahdy1420-cmyk/clinicslot) | Clinic appointment booking API: DST-aware availability, database-enforced double-booking prevention | C# · ASP.NET Core 8 |
+| [**tickmatch**](https://github.com/asmahdy1420-cmyk/tickmatch) | Limit order book and matching engine: price-time priority, O(1) cancel, replay CLI and latency benchmark | C++20 |
+| [**squeezr**](https://github.com/asmahdy1420-cmyk/squeezr) | Hand-written LZ77 + Huffman file compressor with a checksummed block container and streaming CLI | Zig |
+| [**snaplink**](https://github.com/asmahdy1420-cmyk/snaplink) | Self-hosted URL shortener with privacy-friendly click analytics, expiring links and QR codes | SvelteKit · SQLite |
+| [**skyglass**](https://github.com/asmahdy1420-cmyk/skyglass) | Accessible weather dashboard with a hand-drawn SVG forecast chart on the free Open-Meteo APIs | Vue 3 · TypeScript |
 
 ### What I care about
 
